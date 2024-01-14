@@ -34,4 +34,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mnr-tushar&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/MNR-Tushar/MNR-Tushar/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/mnr-tushar/mnr-tushar/blob/output/github-contribution-grid-snake.gif)
