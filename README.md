@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /> </p>
 
-- 🌱 I’m currently learning **phase 1 of YouKn0wWho Academy**
+- 🌱 I’m currently learning **phase 1 and 2 of YouKn0wWho Academy**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MNR-Tushar/Project](https://github.com/MNR-Tushar/Project)
 
