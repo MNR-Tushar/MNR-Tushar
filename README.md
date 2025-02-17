@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Naimur Rahman</h1>
-<h3 align="center">I'm student at Daffodil International University and Competitive Programmer.</h3>
+<h3 align="center">I'm student at Daffodil International University</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /> </p>
@@ -34,4 +34,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mnr-tushar&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-![snake gif](https://github.com/mnr-tushar/mnr-tushar/blob/output/github-contribution-grid-snake.gif)
