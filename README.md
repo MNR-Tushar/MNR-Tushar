@@ -2,9 +2,7 @@
 <h3 align="center">I'm student at Daffodil International University</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" />
-
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /></p>
 
 - 🌱 I’m currently learning **phase 1 and 2 of YouKn0wWho Academy**
 
