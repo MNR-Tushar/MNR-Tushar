@@ -29,11 +29,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnr-tushar&show_icons=true&locale=en" alt="mnr-tushar" /></p>
 
-<div style="display: flex; gap: 10px">
-  <a href="">
-    <img align="center" src="https://leetcard.jacoblin.cool/mnr-tushar?theme=chartreuse&font=Noto%20Sans%20Old%20North%20Arabian" alt="mnr-tushar"/>
-  </a>
-</div>
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/mnr-tushar?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/MNR-TUSHAR/cf-stats/main/output/light_card.svg" />
+</p>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mnr-tushar&limit=5&theme=flat&combine_all_yearly_contributions=true)
