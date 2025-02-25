@@ -29,6 +29,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mnr-tushar&show_icons=true&locale=en" alt="mnr-tushar" /></p>
 
+<div style="display: flex; gap: 10px">
+  <a href="">
+    <img align="center" src="https://leetcard.jacoblin.cool/mnr-tushar?theme=chartreuse&font=Noto%20Sans%20Old%20North%20Arabian" alt="mnr-tushar"/>
+  </a>
+</div>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mnr-tushar&" alt="mnr-tushar" /></p>
 
 ### 🔝 Top Contributed Repo
