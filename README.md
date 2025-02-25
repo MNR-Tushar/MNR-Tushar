@@ -31,8 +31,8 @@
 
 <b>&#128200; Competitive Programming</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/mnr-tushar?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/MNR-TUSHAR/cf-stats/main/output/light_card.svg" />
+<img height="150em" src="https://leetcard.jacoblin.cool/mnr-tushar?theme=light&font=Karma&ext=contest" />
+<img height="150em" src="https://raw.githubusercontent.com/MNR-TUSHAR/cf-stats/main/output/light_card.svg" />
 </p>
 
 ### 🔝 Top Contributed Repo
