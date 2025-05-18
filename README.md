@@ -1,8 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /></p>
 
-<h1 align="center">
- <img src="https://ibb.co/8nNMvCnZ" />
-</h1>
+
+<img src="https://i.ibb.co/7xjvMfxm/Md-Naimur-Rahman.png" alt="Md-Naimur-Rahman" border="0">
 
 
 # 🌟 Welcome to My GitHub Profile!
