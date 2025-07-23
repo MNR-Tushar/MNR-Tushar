@@ -20,8 +20,8 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 
 * **Languages**: C, C++, Java, Python
 * **Web Technologies**: HTML, CSS, JavaScript
-* **Web Frameworks**: Django
-* **Database Systems**: MySQL
+* **Web Frameworks**: Django, Flask
+* **Database Systems**: MySQL, PostgreSQL
 * **Development Tools**: Git, GitHub, VS Code
 * **Core Skills**: Problem-Solving, Data Structures, Algorithms, OOP, Competitive Programming
 
