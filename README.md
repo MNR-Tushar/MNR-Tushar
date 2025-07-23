@@ -40,6 +40,8 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 * 📧 **Email**: [rahman23105101275@diu.edu.bd](mailto:rahman23105101275@diu.edu.bd)
 * 💼 **LinkedIn**: [Md Naimur Rahman](https://www.linkedin.com/in/mdnaimurrahman36)
 * 🌍 **Facebook**: [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman36)
+* 🌍 **Resume**: [Resume of Md Naimur Rahman](https://drive.google.com/file/d/1sO9tlBdzGEG_dJDC0FDSO5nMiM2qH9PJ/view?usp=drive_link)
+* 0
 
 
 ## 📊 GitHub Stats
