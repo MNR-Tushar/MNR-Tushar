@@ -10,10 +10,11 @@
 
 Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passionate about problem-solving and software craftsmanship. As a student at **Daffodil International University**.
 
-* 🚀 Currently mastering advanced algorithms and competitive programming.
+* 🚀 Currently learning Django, Django REST API, and PostgreSQL.
 * 🌱 Exploring full-stack development and software architecture.
 * 🤝 Open to collaborating on innovative projects.
 * 💡 Fun Fact: I believe every problem has a creative solution!
+* Interested in: Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
 
 
 ## 🛠️ My Tech Stack
