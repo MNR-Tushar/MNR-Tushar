@@ -51,14 +51,6 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnr-tushar&show_icons=true&locale=en&layout=compact" alt="mnr-tushar"/>
 
 
-## 🕹️ Fun Contribution Graph (Pac-Man)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/dist/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/dist/github-contribution-grid-snake.gif">
-</picture>
-
-
-
 
 Thanks for stopping by! Let's create something amazing together. 😊
 
