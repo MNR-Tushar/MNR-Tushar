@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mnr-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /></p>
-
-
 <h1 align="center"><img src="https://i.ibb.co/7xjvMfxm/Md-Naimur-Rahman.png" alt="Md-Naimur-Rahman" border="0" "></h1>
+
 
 # 🌟 Welcome to My GitHub Profile!
 
@@ -55,7 +54,7 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 * 💼 **Resume**: [Resume of Md Naimur Rahman](https://drive.google.com/file/d/1sO9tlBdzGEG_dJDC0FDSO5nMiM2qH9PJ/view?usp=drive_link)
 
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Trophies
 
 <div align="center">
   <table>
@@ -71,6 +70,10 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
       <td colspan="2" align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnr-tushar&theme=tokyonight" alt="Profile Details" width="100%"/>
       </td>
+         </tr>
+       <tr>
+      <td colspan="2" align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=mnr-tushar&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies"/>
     </tr>
   </table>
 </div>
