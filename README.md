@@ -28,11 +28,23 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 
 
 ## <b>&#128200; Competitive Programming</b>
-<p float="left">
-<img height="200em" src="https://leetcard.jacoblin.cool/mnr-tushar?theme=light&font=Karma&ext=contest" />
-  
-<img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=MNR-TUSHAR"/>
-</p>
+
+<table>
+<tr>
+<td>
+<img height="200em" src="https://leetcard.jacoblin.cool/mnr-tushar?theme=dark&font=Karma&ext=contest" />
+</td>
+<td>
+<img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=MNR-TUSHAR&theme=dark"/>
+</td>
+</tr>
+</table>
+
+### 🏆 Other Profiles
+[![Codeforces](https://img.shields.io/badge/Codeforces-MNR__TUSHAR-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MNR-TUSHAR)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mnr__tushar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mnr-tushar)
+[![VJudge](https://img.shields.io/badge/VJudge-mnr__tushar-4B0082?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/mnr_tushar)
+[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-00599C?style=for-the-badge&logo=code&logoColor=white)](https://judge.beecrowd.com/en/profile/YOUR_ID)
 
 
 ## 📫 How to Reach Me
@@ -41,28 +53,38 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 * 🔗 **LinkedIn**: [Md Naimur Rahman](https://www.linkedin.com/in/mdnaimurrahman36)
 * 📘 **Facebook**: [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman36)
 * 💼 **Resume**: [Resume of Md Naimur Rahman](https://drive.google.com/file/d/1sO9tlBdzGEG_dJDC0FDSO5nMiM2qH9PJ/view?usp=drive_link)
-  
 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MNR-Tushar\&show_icons=true\&theme=tokyonight)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnr-tushar&show_icons=true&locale=en&layout=compact" alt="mnr-tushar"/>
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mnr-tushar&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mnr-tushar&theme=tokyonight" alt="Repos per Language"/>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnr-tushar&theme=tokyonight" alt="Profile Details" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-
-## 🕹️ Fun Contribution Graph (Pac-Man)
+## 🕹️ Fun Contribution Graph
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg">
 </picture>
 
-## 🐍 Contribution Snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/github-contribution-grid-snake.svg">
-</picture>
+
+
+
 
 
 
