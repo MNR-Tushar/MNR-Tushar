@@ -51,14 +51,11 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnr-tushar&show_icons=true&locale=en&layout=compact" alt="mnr-tushar"/>
 
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mnr-tushar&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
 ## 🕹️ Fun Contribution Graph (Pac-Man)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nahid-Mahbub/Nahid-Mahbub/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nahid-Mahbub/Nahid-Mahbub/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nahid-Mahbub/Nahid-Mahbub/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mnr-tushar/mnr-tushar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mnr-tushar/mnr-tushar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mnr-tushar/mnr-tushar/output/pacman-contribution-graph.svg">
 </picture>
 
 
