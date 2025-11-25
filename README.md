@@ -59,6 +59,14 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 </picture>
 
 
+## 🕹️ Fun Contribution Graph (Pac-Man)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph-dark.svg">
+
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 
 Thanks for stopping by! Let's create something amazing together. 😊
