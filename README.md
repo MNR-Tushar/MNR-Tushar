@@ -3,7 +3,6 @@
 
 <h1 align="center"><img src="https://i.ibb.co/7xjvMfxm/Md-Naimur-Rahman.png" alt="Md-Naimur-Rahman" border="0" "></h1>
 
-
 # 🌟 Welcome to My GitHub Profile!
 
 ## 👋 About Me
@@ -49,6 +48,13 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MNR-Tushar\&show_icons=true\&theme=tokyonight)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mnr-tushar&show_icons=true&locale=en&layout=compact" alt="mnr-tushar"/>
+
+## 🕹️ Fun Contribution Graph (Pac-Man)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg">
+</picture>
 
 
 
