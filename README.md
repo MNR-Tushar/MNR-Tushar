@@ -54,9 +54,14 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mnr-tushar&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
-<img width="500" alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg#gh-light-mode-only">
+## 🕹️ Fun Contribution Graph (Pac-Man)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nahid-Mahbub/Nahid-Mahbub/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nahid-Mahbub/Nahid-Mahbub/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Nahid-Mahbub/Nahid-Mahbub/output/pacman-contribution-graph.svg">
+</picture>
 
-<img width="500" alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only">
+
 
 
 Thanks for stopping by! Let's create something amazing together. 😊
