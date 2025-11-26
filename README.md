@@ -25,8 +25,7 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 * **Core Skills**: Problem-Solving, Data Structures, Algorithms, OOP, Competitive Programming
 
 
-
-## <b>&#128200; Competitive Programming</b>
+### 🏆 Competitive Programming Profiles
 
 <table>
 <tr>
@@ -37,14 +36,18 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 <img height="200em" src="https://codeforces-readme-stats.vercel.app/api/card?username=MNR-TUSHAR&theme=dark"/>
 </td>
 </tr>
+<tr>
+<td>
+<img height="200em" src="https://atcoder-readme-stats.vercel.app/stats/mnr_tushar?theme=dark" />
+</td>
+</tr>
 </table>
 
 
-### 🏆 Other Profiles
-[![Codeforces](https://img.shields.io/badge/Codeforces-MNR__TUSHAR-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/MNR-TUSHAR)
-[![LeetCode](https://img.shields.io/badge/LeetCode-mnr__tushar-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/mnr-tushar)
 [![VJudge](https://img.shields.io/badge/VJudge-mnr__tushar-4B0082?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/mnr_tushar)
-[![Beecrowd](https://img.shields.io/badge/Beecrowd-Profile-00599C?style=for-the-badge&logo=code&logoColor=white)](https://judge.beecrowd.com/en/profile/YOUR_ID)
+[![HackerRank](https://img.shields.io/badge/HackerRank-mnr__tushar-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mnr_tushar)
+
+
 
 
 ## 📫 How to Reach Me
