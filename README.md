@@ -17,7 +17,7 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 
 ## 🛠️ My Tech Stack
 
-* **Languages**: C, C++, Java, Python
+* **Languages**: Python, C, C++, Java
 * **Web Technologies**: HTML, CSS, JavaScript
 * **Web Frameworks**: Django, Django RestAPI, Flask
 * **Database Systems**: MySQL, PostgreSQL
@@ -89,10 +89,6 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MNR-Tushar/MNR-Tushar/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
-
 
 
 
