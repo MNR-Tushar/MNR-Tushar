@@ -76,10 +76,10 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnr-tushar&theme=tokyonight" alt="Profile Details" width="100%"/>
       </td>
          </tr>
-       <tr>
+      <tr>
       <td colspan="2" align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mnr-tushar&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies"/>
-    </tr>
+    </tr> 
   </table>
 </div>
 
