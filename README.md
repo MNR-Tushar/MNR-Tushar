@@ -8,7 +8,7 @@
 
 Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passionate about problem-solving and software craftsmanship. As a student at **Daffodil International University**.
 
-* 🚀 Currently learning Django, Django REST API, and PostgreSQL.
+* 🚀 Currently learning Django, Django REST API,FastAPI and PostgreSQL.
 * 🌱 Exploring full-stack development and software architecture.
 * 🤝 Open to collaborating on innovative projects.
 * 💡 Fun Fact: I believe every problem has a creative solution!
@@ -19,7 +19,7 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 
 * **Languages**: Python, C, C++, Java
 * **Web Technologies**: HTML, CSS, JavaScript
-* **Web Frameworks**: Django, Django RestAPI, Flask
+* **Web Frameworks**: Django, Django RestAPI, FastAPI, Flask
 * **Database Systems**: MySQL, PostgreSQL
 * **Development Tools**: Git, GitHub, VS Code, Postman
 * **Core Skills**: Problem-Solving, Data Structures, Algorithms, OOP, Competitive Programming
@@ -76,10 +76,10 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mnr-tushar&theme=tokyonight" alt="Profile Details" width="100%"/>
       </td>
          </tr>
-       <!-- <tr>
+       <tr>
       <td colspan="2" align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=mnr-tushar&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7" alt="Trophies"/>
-    </tr> -->
+    </tr>
   </table>
 </div>
 
