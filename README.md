@@ -8,7 +8,6 @@
 
 Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passionate about problem-solving and software craftsmanship. As a student at **Daffodil International University**.
 
-* 🚀 Currently learning Django, Django REST API,FastAPI and PostgreSQL.
 * 🌱 Exploring full-stack development and software architecture.
 * 🤝 Open to collaborating on innovative projects.
 * 💡 Fun Fact: I believe every problem has a creative solution!
@@ -17,15 +16,25 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 
 ## 🛠️ My Tech Stack
 
-* **Languages**: Python, C, C++, Java
-* **Web Technologies**: HTML, CSS, JavaScript
-* **Web Frameworks**: Django, Django RestAPI, FastAPI, Flask
-* **Database Systems**: MySQL, PostgreSQL
-* **Development Tools**: Git, GitHub, VS Code, Postman
-* **Core Skills**: Problem-Solving, Data Structures, Algorithms, OOP, Competitive Programming
+* **Languages**: Python, C, C++, Java, JavaScript
+* **Frameworks**: Django, Django RestAPI, FastAPI, Flask
+* **Database**: MySQL, PostgreSQL, Redis, SQLite
+* **Tools**: Git, VS Code, Postman, JWT, Swagger
+* **DevOps**: Docker, Docker Compose, GitHub Actions
+* **Queue**: Celery, Redis (Message Broker)
+* **Frontend**: HTML, CSS, Bootstrap
 
 
-### 🏆 Competitive Programming Profiles
+
+## 📫 How to Reach Me
+
+* 📧 **Email**: [rahman23105101275@diu.edu.bd](mailto:rahman23105101275@diu.edu.bd)
+* 🔗 **LinkedIn**: [Md Naimur Rahman](https://www.linkedin.com/in/mdnaimurrahman36)
+* 📘 **Facebook**: [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman36)
+* 💼 **Resume**: [Resume of Md Naimur Rahman](https://drive.google.com/file/d/1SokoiyyVxkKuoUXbBNSlTI945ozbRdZP/view?usp=drive_link)
+  
+
+## 🏆 Competitive Programming Profiles
 
 <table>
 <tr>
@@ -40,23 +49,18 @@ Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passio
 <td>
 <img height="200em" src="https://atcoder-readme-stats.vercel.app/stats/mnr_tushar?theme=dark" />
 </td>
+<td>
+  
+[![VJudge](https://img.shields.io/badge/VJudge-mnr__tushar-4B0082?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/mnr_tushar)
+  
+[![HackerRank](https://img.shields.io/badge/HackerRank-mnr__tushar-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mnr_tushar)
+
+[![Toph](https://img.shields.io/badge/Toph-tushar-00C853?style=for-the-badge&logo=code&logoColor=white)](https://toph.co/u/tushar)
+
+</td>
 </tr>
 </table>
 
-
-[![VJudge](https://img.shields.io/badge/VJudge-mnr__tushar-4B0082?style=for-the-badge&logo=code&logoColor=white)](https://vjudge.net/user/mnr_tushar)
-[![HackerRank](https://img.shields.io/badge/HackerRank-mnr__tushar-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/mnr_tushar)
-[![Toph](https://img.shields.io/badge/Toph-tushar-00C853?style=for-the-badge&logo=code&logoColor=white)](https://toph.co/u/tushar)
-
-
-
-
-## 📫 How to Reach Me
-
-* 📧 **Email**: [rahman23105101275@diu.edu.bd](mailto:rahman23105101275@diu.edu.bd)
-* 🔗 **LinkedIn**: [Md Naimur Rahman](https://www.linkedin.com/in/mdnaimurrahman36)
-* 📘 **Facebook**: [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman36)
-* 💼 **Resume**: [Resume of Md Naimur Rahman](https://drive.google.com/file/d/1SokoiyyVxkKuoUXbBNSlTI945ozbRdZP/view?usp=drive_link)
 
 
 ## 📊 GitHub Stats & Trophies
