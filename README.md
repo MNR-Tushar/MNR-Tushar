@@ -4,7 +4,7 @@
 
 # Md Naimur Rahman (Tushar)
 
-**Backend Engineer · Python · Django · DRF**
+**Backend Engineer · Python · Django · DRF · PostgreSQL · Redis · Docker · CI/CD**
 
 I build production-grade backend systems — REST APIs, real-time WebSocket apps, async task pipelines, and containerized deployments. Currently pursuing B.Sc in CSE at Daffodil International University, Dhaka.
 
