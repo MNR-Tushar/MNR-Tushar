@@ -2,34 +2,43 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=mnr-tushar&label=Profile%20views&color=0e75b6&style=flat" alt="mnr-tushar" /></p>
 
-# 🌟 Welcome to My GitHub Profile!
+# Md Naimur Rahman (Tushar)
 
-## 👋 About Me
+**Backend Engineer · Python · Django · DRF**
 
-Hi! I'm **Md Naimur Rahman (Tushar)**, an enthusiastic software developer passionate about problem-solving and software craftsmanship. As a student at **Daffodil International University**.
+I build production-grade backend systems — REST APIs, real-time WebSocket apps, async task pipelines, and containerized deployments. Currently pursuing B.Sc in CSE at Daffodil International University, Dhaka.
 
-* 🌱 Exploring full-stack development and software architecture.
-* 🤝 Open to collaborating on innovative projects.
-* 💡 Fun Fact: I believe every problem has a creative solution!
-* Interested in: Machine Learning (ML), Natural Language Processing (NLP), Large Language Models (LLM), Retrieval-Augmented Generation (RAG)
+- 🔧 Core stack: Django · DRF · Django Channels · Celery · Redis · PostgreSQL · Docker
+- 🚀 Shipped: full e-commerce backend with payment integration, async email pipeline, CI/CD
+- 🧩 Competitive programmer — 600+ problems solved across LeetCode, Codeforces, AtCoder
+- 📬 Open to backend internships and entry-level roles
 
-
-## 🛠️ My Tech Stack
-
-* **Languages**: Python, C, C++, Java, JavaScript
-* **Frameworks**: Django, Django RestAPI, FastAPI, Flask
-* **Database**: MySQL, PostgreSQL, Redis, SQLite
-* **Tools**: Git, VS Code, Postman, JWT, Swagger
-* **DevOps**: Docker, Docker Compose, GitHub Actions
-* **Queue**: Celery, Redis (Message Broker)
-* **Frontend**: HTML, CSS, Bootstrap
+📧 [rahman23105101275@diu.edu.bd](mailto:rahman23105101275@diu.edu.bd) · 🔗 [LinkedIn](https://www.linkedin.com/in/mdnaimurrahman36) · 📄 [Resume](https://drive.google.com/file/d/1SokoiyyVxkKuoUXbBNSlTI945ozbRdZP/view?usp=drive_link)
 
 
+---
+
+## 🛠️ Tech Stack
+ 
+| Layer | Technologies |
+|---|---|
+| **Language** | Python, java, C, C++, JavaScript |
+| **Backend** | Django, DRF, Django Channels, FastAPI |
+| **Database** | PostgreSQL, MySQL, Redis, SQLite |
+| **Async** | Celery, Celery Beat, Redis (broker) |
+| **DevOps** | Docker, Docker Compose, GitHub Actions CI/CD |
+| **Auth & API** | JWT, REST, WebSocket |
+| **Storage & Email** | Cloudinary, SendGrid |
+| **Payments** | SSLCommerz |
+| **Testing** | pytest, pytest-django, factory\_boy |
+| **Tools** | Git, Postman, Swagger/drf-spectacular |
+ 
+---
 
 ## 📫 How to Reach Me
 
 * 📧 **Email**: [rahman23105101275@diu.edu.bd](mailto:rahman23105101275@diu.edu.bd)
-* 🔗 **LinkedIn**: [Md Naimur Rahman](https://www.linkedin.com/in/mdnaimurrahman36)
+* 🔗 **Linkedin**: [Md Naimur Rahman](https://www.linkedin.com/in/mdnaimurrahman36)
 * 📘 **Facebook**: [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman36)
 * 💼 **Resume**: [Resume of Md Naimur Rahman](https://drive.google.com/file/d/1SokoiyyVxkKuoUXbBNSlTI945ozbRdZP/view?usp=drive_link)
   
