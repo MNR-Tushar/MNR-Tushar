@@ -6,7 +6,7 @@
 
 **Backend Engineer · Python · Django · DRF · PostgreSQL · Redis · Docker · CI/CD**
 
-I build production-grade backend systems — REST APIs, real-time WebSocket apps, async task pipelines, and containerized deployments. Currently pursuing B.Sc in CSE at Daffodil International University, Dhaka.
+I build production-grade backend systems — REST APIs, real-time WebSocket apps, async task pipelines, and containerized deployments. Currently pursuing B.Sc in CSE at Daffodil International University, Savar.
 
 - 🔧 Core stack: Django · DRF · Django Channels · Celery · Redis · PostgreSQL · Docker
 - 🚀 Shipped: full e-commerce backend with payment integration, async email pipeline, CI/CD
@@ -30,7 +30,6 @@ I build production-grade backend systems — REST APIs, real-time WebSocket apps
 | **Auth & API** | JWT, REST, WebSocket |
 | **Storage & Email** | Cloudinary, SendGrid |
 | **Payments** | SSLCommerz |
-| **Testing** | pytest, pytest-django, factory\_boy |
 | **Tools** | Git, Postman, Swagger/drf-spectacular |
  
 ---
